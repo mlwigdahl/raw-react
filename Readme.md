@@ -1,3 +1,4 @@
-# raw-react -- a project for James K. Nelson's React tutorials.
+# raw-react
 
-# author: Matt Wigdahl
+	* A project for James K. Nelson's React tutorials.
+	* Author: Matt Wigdahl
